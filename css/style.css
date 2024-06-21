@@ -1,0 +1,28 @@
+a{
+ color:red;
+}
+.header_list{
+    display: flex;
+}
+.header_element{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+a.black_green:hover {
+    text-decoration: none;
+    color:green;
+}
+.black_green{
+    color: black;
+    margin-left: 15px;
+    margin-right:auto;
+    font-size: 20px;
+}
+.header_nav{
+    border:2px solid;
+    border-color:black;
+}
+.form_div{
+    margin-right:auto;
+    margin-left:auto;
+}
